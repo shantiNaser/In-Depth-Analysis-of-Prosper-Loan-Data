@@ -22,21 +22,29 @@ This dataset contains the customer's data from a loan company known as Prosper. 
 
 
 ### Does employment status affect the Credit Score Range?
-<img width="983" alt="image" src="https://github.com/user-attachments/assets/5266030e-27c8-48e8-ae4d-95b7944d6b57">
+
+![image](https://github.com/user-attachments/assets/5266030e-27c8-48e8-ae4d-95b7944d6b57)
+
   > Employed borrowers exhibit a broad range of credit scores, including some high outliers, which suggests that while most have moderate to high credit scores, a few have exceptionally high ones. Borrowers categorized as "Other" and "Full-time" generally have higher credit scores compared to employed borrowers, with similar distributions and some notable high outliers, indicating that some within these groups possess excellent credit. On the other hand, self-employed borrowers tend to have lower credit scores, characterized by a narrower range and fewer outliers. Not employed borrowers show the lowest and least variable credit scores, pointing to potential financial instability or limited credit history.
 
+  
 ### How does the number of investors relate to the loan amount?
-<img width="1034" alt="image" src="https://github.com/user-attachments/assets/07e8626f-1412-4e01-9e10-a099d0941609">
+![image](https://github.com/user-attachments/assets/07e8626f-1412-4e01-9e10-a099d0941609)
+
   > There is a positive correlation between the number of investors and the Loan Amount, with a correlation of 0.32 This indicates that as the number of investors increases, the loan amount also tend to increase.
+
   > Some outliers are observed, with loans having over 600 investors and Loan amount exceeding 25000.
 
 
 ### How does the original loan amount vary across different income ranges and loan statuses?
-<img width="1140" alt="image" src="https://github.com/user-attachments/assets/2483a151-8713-4f99-b070-f5fd725c1a9b">
+
+![image](https://github.com/user-attachments/assets/2483a151-8713-4f99-b070-f5fd725c1a9b)
+
   > People with higher incomes tend to borrow more money. This is shown by the taller bars for higher income groups. However, the biggest loans are not always taken by the richest people. It might be because people with higher incomes are less likely to default on their loans. We should look into this further. In general, people with incomes over $100,000 borrow the most, no matter if they’ve paid back their loan or not.
 
 ### How do loan amount, monthly payment, and credit score vary across different borrower states and employment statuses?
-<img width="1099" alt="image" src="https://github.com/user-attachments/assets/108a4d86-8845-46e5-89e8-f3292554ed82">
+
+![image](https://github.com/user-attachments/assets/108a4d86-8845-46e5-89e8-f3292554ed82)
 
 
 
