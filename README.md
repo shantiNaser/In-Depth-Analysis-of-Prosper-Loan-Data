@@ -47,5 +47,15 @@ This dataset contains the customer's data from a loan company known as Prosper. 
 ![image](https://github.com/user-attachments/assets/108a4d86-8845-46e5-89e8-f3292554ed82)
 
 
+# Conclusions
+* The analysis of the graphs reveals several key insights I will list some of them:
+   * Loan amounts generally tend to be small with a right-skewed distribution, meaning there are a few large loans. This indicates the presence of different borrower groups, with large loans being valid and not requiring special treatment.
+   * There is a moderate positive correlation (0.32) between the number of investors and the loan amount, indicating that more investors are associated with higher loan amounts. Some outliers show loans with over 600 investors and amounts exceeding $25,000.
+   * Higher income individuals tend to borrow more money, as seen by the higher borrowing amounts for these groups. However, the largest loans are not necessarily taken by the highest earners, possibly due to lower default rates among wealthier individuals. Those with incomes over $100,000 generally borrow the most, regardless of loan repayment status.
+
+
+# Reviwer Feedback
+<img width="744" alt="image" src="https://github.com/user-attachments/assets/85128982-e219-402e-b321-bd67236acdf2">
+
 
 
