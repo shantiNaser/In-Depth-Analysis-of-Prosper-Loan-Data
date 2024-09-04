@@ -11,11 +11,15 @@ This dataset contains the customer's data from a loan company known as Prosper. 
 This dataset contains the customer's data from a loan company known as Prosper. This dataset comprises of 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others.
 > **_NOTE:_** You can get detailed information about each variable from [Here](https://github.com/shantiNaser/In-Depth-Analysis-of-Prosper-Loan-Data/blob/main/Part_I_exploration_template.ipynb)
 
+
 # Example from code for question-visualization-observations pattern
 
- ### What is the distribution of the Loan Original Amount?
- <img width="1040" alt="image" src="https://github.com/user-attachments/assets/070df578-0bee-4554-a6b4-d82dd9adbfc1">
-  > The loan amounts are mostly small and have a right-skewed distribution with a few large loans standing out. This suggests there are different groups of borrowers. Even though there are some large, less common loans, they are valid and don’t need any special treatment.
+### What is the distribution of the Loan Original Amount?
+
+![image](https://github.com/user-attachments/assets/070df578-0bee-4554-a6b4-d82dd9adbfc1)
+
+> The loan amounts are mostly small and have a right-skewed distribution with a few large loans standing out. This suggests there are different groups of borrowers. Even though there are some large, less common loans, they are valid and don’t need any special treatment.
+
 
 ### Does employment status affect the Credit Score Range?
 <img width="983" alt="image" src="https://github.com/user-attachments/assets/5266030e-27c8-48e8-ae4d-95b7944d6b57">
